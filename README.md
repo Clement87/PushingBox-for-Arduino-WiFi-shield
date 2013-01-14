@@ -27,4 +27,4 @@ You need the Arduino Software 1.0 (or more) and you have to generate a DevID by 
 Change log
 ****************
 
-v1.0 - 14.01.12
+v1.0 - 14.01.12 
